@@ -16,4 +16,39 @@
 body {
   font-family: 'Outfit', sans-serif;
   font-size: 15px;
+  background: var(--light-gray);
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  background: var(--white);
+  /* Center the container */
+  width: 25rem;
+  margin: 0 auto;
+  margin-top: 11rem;
+  border-radius: 1rem;
+}
+
+.container .card {
+  /* Add padding to the container */
+  padding: 20px;
+}
+
+.container .card img {
+  border-radius: 0.7rem;
+}
+
+.container .card .card-body h1 {
+  text-align: center;
+  padding: 20px 10px 5px;
+}
+
+.container .card .card-body h3 {
+  padding: 10px 25px 20px;
+  color: var(--grayish-blue);
+  text-align: center;
+  font-weight: normal;
 }
