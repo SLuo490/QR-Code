@@ -39,7 +39,7 @@ main {
 img {
   width: 288px;
   height: 288px;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .image {
@@ -53,8 +53,10 @@ img {
 .heading {
   margin: 0px 16px;
   color: var(--dark-blue);
+
   font-weight: 700;
   font-size: 22px;
+  line-height: normal;
 }
 
 .details {

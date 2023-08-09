@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
   - [Documentation](#documentation)
@@ -22,14 +21,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![]()
-
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- [Solution](https://www.frontendmentor.io/solutions/qr-code-component-SJ9xKeqG5)
+- [Live Solution](https://lustrous-taiyaki-c010eb.netlify.app/)
 
 ### Built with
 
@@ -37,8 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-[Link to Project](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Documentation
 
@@ -142,4 +135,4 @@ Similar to the last step, I added styling to the text matching the design in fig
 ## Author
 
 - Website - [Shi Tao Luo](https://github.com/SLuo490)
-- Frontend Mentor - [@qxer](https://www.frontendmentor.io/profile/SLuo490)
+- Frontend Mentor - [@SLuo490](https://www.frontendmentor.io/profile/SLuo490)
